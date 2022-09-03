@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Cadastro de Colaboradores
+
+Para ter acesso aplicação basta acessar o [link](https://organo-khaki.vercel.app/).
+
+## Referências 
+Curso :  https://cursos.alura.com.br/course/react-desenvolvendo-javascript
+
+
+> ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
